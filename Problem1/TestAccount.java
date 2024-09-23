@@ -7,6 +7,7 @@ public class TestAccount {
         Account acc2 = new Account("Credit", "John Doe", 4000);
 
         //Display initial balance of accounts
+       System.out.println("\nThe Account Class");
         System.out.println("\nInitial Account Balance: ");
         System.out.println("Account owner: " + acc1.getName());
         System.out.println("Debit balance: $" + acc1.getBalance());

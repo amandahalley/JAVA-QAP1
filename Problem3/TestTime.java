@@ -12,7 +12,8 @@ public class TestTime {
         t2.setTime(10, 20, 30);
 
         //Display initial time
-        System.out.println("Initial Times:");
+        System.out.println("\nThe Time Class");
+        System.out.println("\nInitial Times:");
         System.out.println("Time 1 = " + t1);
         System.out.println("Time 2 = " + t2);
 
